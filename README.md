@@ -57,6 +57,7 @@ For more information on spr commands and options, run `spr help`. For more infor
 ## Contributing
 
 Testing...
+More changes 
 
 Feel free to submit an issue on [GitHub](https://github.com/getcord/spr) if you have found a problem. If you can even provide a fix, please raise a pull request!
 
